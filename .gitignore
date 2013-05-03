@@ -2,3 +2,4 @@
 libxml*.tgz
 package/
 lib/libxml/o3.node
+build

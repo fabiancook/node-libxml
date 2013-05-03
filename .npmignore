@@ -2,6 +2,8 @@ lib/libxml/o3.node
 libxml*.tgz
 package/
 
+build
+
 support/o3/build/
 
 support/o3/deps/curl/

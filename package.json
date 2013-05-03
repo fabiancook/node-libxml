@@ -8,17 +8,16 @@
     { "name": "Rik Arends", "email": "rik@ajax.org" }
   ],
   "repository" : {
-    "type" : "git",
-    "url" : "http://github.com/ajaxorg/node-libxml.git" 
+    "type": "git",
+    "url": "http://github.com/ajaxorg/node-libxml.git"
   },
   "devDependencies": {
   },
   "main": "./lib/libxml/index.js",
   "scripts" : {
-    "preinstall" : "./build.sh",
     "test": "node ./test.js"
   },
   "engines" : {
-     "node" : ">= 0.4.0"
+     "node" : ">= 0.6.0"
   }
 }

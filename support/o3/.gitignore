@@ -1,0 +1,5 @@
+build/
+*_glue.h
+.lock-wscript
+codegenErr.txt
+codegenLog.txt

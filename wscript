@@ -9,5 +9,5 @@ def configure(conf):
 
 def build(bld):
     call([path.join(cwd, 'clean.sh')])
-    call([path.join(cwd, 'build-waf.sh')])
+    call([path.join(cwd, 'build-gyp.sh')])
     call([path.join(cwd, 'copy.sh')])
